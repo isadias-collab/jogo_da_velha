@@ -10,3 +10,19 @@
 ## 📘 Descrição  
 Este projeto é um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido em **HTML e CSS puro**.
 O jogo apresenta um tabuleiro 3x3 com marcações de "X" e "O", simulando uma partida clássica.  
+
+---
+
+## 💡 Funcionalidades  
+✅ Tabuleiro 3x3 com layout responsivo.  
+✅ Marcação estática de jogadas ("X" e "O").  
+✅ Design limpo e moderno.  
+✅ Uso exclusivo de HTML e CSS.  
+
+---
+
+## 🖥️ Tecnologias Utilizadas  
+- 🧱 **HTML5** — estrutura da página  
+- 🎨 **CSS3** — estilização e layout  
+- 💻 **Visual Studio Code** — editor de código  
+- 🐙 **GitHub** — repositório e versionamento  
