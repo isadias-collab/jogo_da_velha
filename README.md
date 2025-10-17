@@ -8,5 +8,5 @@
 ---
 
 ## 📘 Descrição  
-Este projeto é um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido em **HTML e CSS puro**, como parte da **atividade do Avanze (o Gelado)**.  
+Este projeto é um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido em **HTML e CSS puro**.
 O jogo apresenta um tabuleiro 3x3 com marcações de "X" e "O", simulando uma partida clássica.  
